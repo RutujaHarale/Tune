@@ -7,5 +7,13 @@ Azure Static Web Apps is a service that automatically builds and deploys full st
 
 
 Screenshots:
+
+Image 1
+
 ![img1](https://user-images.githubusercontent.com/92007582/155543711-3709eed1-c659-41c4-b48a-69db225ac733.png)
 
+
+
+Image 2
+
+![img2](https://user-images.githubusercontent.com/92007582/155544606-e757de25-76f7-4a21-8c16-462953249197.jpeg)
